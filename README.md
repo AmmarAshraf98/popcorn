@@ -2,11 +2,11 @@ usePopCorn
 usePopCorn is a React-based movie rating application that allows users to search for movies, view detailed information, and rate them using a star rating system. The app fetches movie data from the OMDB API and provides a user-friendly interface for managing a watched list and viewing movie details.
 
 Features
--Component Composition: The app is built using reusable and composable components, making it easy to manage and extend.
--Fetching Data: The app fetches movie data from the OMDB API using asynchronous requests. The data is displayed dynamically as users interact with the app.
--Error Handling: The app includes robust error handling to manage API request failures and display appropriate error messages to the user.
--Request Control: The app can cancel ongoing API requests if a new request is initiated, ensuring that only the latest data is displayed.
--Reusability: Components like StarRating are designed to be reusable across different parts of the app, promoting code reuse and consistency.
+- Component Composition: The app is built using reusable and composable components, making it easy to manage and extend.
+- Fetching Data: The app fetches movie data from the OMDB API using asynchronous requests. The data is displayed dynamically as users interact with the app.
+- Error Handling: The app includes robust error handling to manage API request failures and display appropriate error messages to the user.
+- Request Control: The app can cancel ongoing API requests if a new request is initiated, ensuring that only the latest data is displayed.
+- Reusability: Components like StarRating are designed to be reusable across different parts of the app, promoting code reuse and consistency.
 ---------------------------
 
 Technologies Used
